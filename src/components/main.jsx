@@ -45,7 +45,7 @@ const Timeline = () => {
       <div className="timeline">
         <div className="item" data-text="Hello World">
           <div className="content">
-            <img src="./img/01.jpg" alt="" className="img" />
+            <img src="/img/01.jpg" alt="" className="img" />
             <h2 className="content-title">2000</h2>
             <p className="content-desc">
               歡迎來到這個虛無縹緲的世界
@@ -66,7 +66,7 @@ const Timeline = () => {
 
         <div className="item" data-text="再不瘋狂我們就老了">
           <div className="content">
-            <img src="./img/03.jpg" alt="" className="img" />
+            <img src="./03.jpg" alt="" className="img" />
             <h2 className="content-title">2020</h2>
             <p className="content-desc">
               會迷茫，會迷失，卻不可停下腳步
