@@ -75,8 +75,13 @@ const Timeline = () => {
           </div>
         </div>
       </div>
+      <div className="footer">
+                <a>cr.山羊の前端小窝</a>
+      </div>
     </div>
+    
   );
+
 };
 
 export default Timeline;
