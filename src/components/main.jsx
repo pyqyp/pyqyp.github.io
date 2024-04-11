@@ -38,6 +38,7 @@ const Timeline = () => {
 
   return (
     <div className="shell" id="shell">
+      <a href='' className='link'>Home</a>
       <div className="header">
         <h2 className="title">Welcome to My Timeline</h2>
         <h3 className="subtitle">pp personal blog</h3>
